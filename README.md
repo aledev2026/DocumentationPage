@@ -23,6 +23,9 @@ Questo progetto consiste in una pagina di documentazione tecnica (Technical Docu
 DocumentationPage/
 
 │
+
 ├── index.html        # Struttura principale della pagina
+
 ├── style.css        # Fogli di stile personalizzati
+
 └── README.md         # Documentazione del progetto
