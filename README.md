@@ -16,7 +16,7 @@ Questo progetto consiste in una pagina di documentazione tecnica (Technical Docu
 
 ## 🛠️ Tecnologie Utilizzate
 - **HTML5**: Per la struttura semantica dei contenuti.
-- **CSS3**: Per lo styling, inclusi Flexbox/Grid e Media Queries per la responsività.
+- **CSS3**: Per lo styling.
 
 ## 📂 Struttura del Progetto
 
